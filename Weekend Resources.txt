@@ -1,0 +1,17 @@
+These are the websites I am using to work through the tutorial.
+I did try to do this assignment 100% from scratch, but I am not yet
+experienced enough to figure out how all these folders and js files are
+linking together, or how to get them to do so.  
+
+
+
+
+https://redux.js.org/introduction/installation
+
+https://redux.js.org/basics/usage-with-react
+
+https://create-react-app.dev/docs/getting-started/
+
+https://github.com/reduxjs/redux/blob/master/examples/todos/src/index.js
+
+https://stackoverflow.com/questions/40803075/how-to-install-and-use-semantic-ui-react
